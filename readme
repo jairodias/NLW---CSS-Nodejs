@@ -1,3 +1,7 @@
 ____________________________________
 block = pula linha
 inline = mantém na mesma linha
+margin-auto =  espaços automáticos (pega a sobras e distribui igualmente)
+--- top,right,left,bottom -----
+
+flex-direction = column (volta em padrão coluna e não inline)
