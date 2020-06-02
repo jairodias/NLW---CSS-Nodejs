@@ -5,13 +5,14 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 html{
   font-family: 'Roboto', sans-serif;
 }
 
 body{
-  background: linear-gradient(180deg, #f000 40%, #101c26);
+  background: linear-gradient(180deg, #f0f0f0 40%, #101c26);
   -webkit-font-smoothing: antialiased;
 }
 
